@@ -1,2 +1,9 @@
 rayeen abaal
+<<<<<<< HEAD
 na sajid e abal
+=======
+
+
+
+Kuttar sao
+>>>>>>> 5d62e48c79dbcffdccf86bd086479a77b46c7b08
